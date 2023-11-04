@@ -1,6 +1,6 @@
 # Hola, mi nombre es Belén Jiménez 👋
 ### Estudiante de Programación Web y Terapeuta Ocupacional
-![https://github.com/belenjs](https://raw.githubusercontent.com/belenjs/belenjs/main/belenjs_banner.png)
+![https://github.com/belenjs](https://raw.githubusercontent.com/belenjs/belenjs/main/belenjs_banner1.png)
 
 En 2015 termino mis estudios como Terapeuta Ocupacional y comienzo a trabajar como tal pero ...
 
