@@ -1,20 +1,8 @@
 # Hola, mi nombre es Belén Jiménez 👋
-### Estudiante de Programación Web y Terapeuta Ocupacional
+### Estudiante de Desarrollo de Aplicaciones Web 
 ![https://github.com/belenjs](https://raw.githubusercontent.com/belenjs/belenjs/main/belenjs_banner1.png)
 
-En 2015 termino mis estudios como Terapeuta Ocupacional y comienzo a trabajar como tal pero ...
+Actualmente estoy formándome en Desarrollo de Aplicaciones Web, donde estoy aprendiendo a crear desde páginas sencillas hasta aplicaciones completas.
 
-
-En 2022 decidí que quería darle un cambio a mi vida e inicié mis estudios en Programación Web realizando el Bootcamp Mujeres en Tech de KeepCoding y Glovo.
-
-
-En la actualidad continuo mi formación y sigo desarrollando proyectos por mi cuenta que puedes ver aquí.
-
-
-¡Espero que sean muchos!
-
-
-
-
-#### Puedes encontrarme en:
-[LinkedIn](https://www.linkedin.com/in/bel%C3%A9n-jim%C3%A9nez-895aab24a/?originalSubdomain=es)
+Aquí encontrarás algunos de mis proyectos.
+Gracias por pasarte por mi perfil. ¡Bienvenid@!
